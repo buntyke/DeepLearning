@@ -2,3 +2,4 @@
 *.tar.*
 *.pickle
 *.zip
+Tensorflow/MNIST_data/
